@@ -1,0 +1,7 @@
+file name	time point	time point name	conversion type	C conversion (spike-in)	mC conversion (spike-in)	hmC conversion (spike-in)	fC conversion (spike-in)
+file_name_0.txt	1	G0	bisulfite	0.9	0.05	0.05	0.8
+file_name_1.txt	1	G0	ox bisulfite	0.9	0.05	0.9	0.9
+file_name_2.txt	2	G3	bisulfite	0.9	0.05	0.05	0.8
+file_name_3.txt	2	G3	ox bisulfite	0.9	0.05	0.9	0.9
+file_name_4.txt	3	G6	bisulfite	0.9	0.05	0.05	0.8
+file_name_5.txt	3	G6	ox bisulfite	0.9	0.05	0.9	0.9
